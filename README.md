@@ -2,4 +2,4 @@
 
 Set System Environment Variable:
 
-TaxJarApiKey : <ApiKey>
+TaxJarApiKey : \<ApiKey\>
